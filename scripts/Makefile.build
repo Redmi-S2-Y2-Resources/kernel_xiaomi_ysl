@@ -677,3 +677,4 @@ endif
 # information in a variable se we can use it in if_changed and friends.
 
 .PHONY: $(PHONY)
+enfif
